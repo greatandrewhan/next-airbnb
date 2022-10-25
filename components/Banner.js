@@ -1,5 +1,4 @@
 import Image from "next/image";
-import Banner01 from "../public/images/Banner01.webp";
 
 function Banner() {
   return (
